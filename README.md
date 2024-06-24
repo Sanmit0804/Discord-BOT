@@ -1,3 +1,6 @@
+## Preview
+![image](https://github.com/Sanmit0804/Discord-Bot/assets/104015673/c3a854b1-5695-4c5d-85a9-fc19b33dd153)
+
 # Discord-Bot
 This repository contains the source code for a feature-rich Discord bot built using Node.js and the discord.js library. The bot offers a variety of functionalities to enhance your server experience, including (replace with specific functionalities your bot offers, e.g., moderation tools, fun commands, integration with other services).
 
@@ -86,6 +89,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-## Preview
-![image](https://github.com/Sanmit0804/Discord-Bot/assets/104015673/c3a854b1-5695-4c5d-85a9-fc19b33dd153)
 
